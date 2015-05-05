@@ -1,0 +1,23 @@
+/*------------- Reset browser differences ------------- */
+* {
+	padding: 0;
+	margin: 0;
+}
+/* ------------ Body styles ------------ */
+body {
+	background-color: #f0f1f3;
+	color:#667073;
+	font: 16px/1.3 'Arial',sans-serif;
+}
+h1 {
+	font-size: 88px;
+}
+.watchers{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  	font-size: 46px;
+}
+.watchers span{
+	color: red;
+}
