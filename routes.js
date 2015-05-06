@@ -1,7 +1,6 @@
 
-module.exports = function(app, router, mongoose, io){
-	var morgan = require('morgan')
-	,	txtMsg = mongoose.model('Msg', { _id: false, msg: String });
+module.exports = function(app, mongoose, io){
+	var txtMsg = mongoose.model('Msg', { _id: false, msg: String });
 	app.get('/', function(req, res){ 
 		res.render('txt'); 
 	});
