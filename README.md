@@ -1,4 +1,4 @@
-#<img height="110px" style="margin=0" align="right" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me at github"/>flashdave-MEAN-socket.io-express example
+#<img height="110px" style="margin=0" align="right" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me at github"/>MEAN socket.io express example
 A demo web app to show [Node.js](http://nodejs.org/), [Angular.js](https://angularjs.org/), [Socket.io](http://socket.io/), [Express.js](http://expressjs.com/), [Mongoose.js](http://mongoosejs.com/) and [MongoDB](http://www.mongodb.org/) integration
 
 MongoDB is required
