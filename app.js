@@ -2,7 +2,7 @@
 var express = require('express')
 ,	mongoose = require('mongoose')
 ,	app = express()
-,	port = process.env.PORT || 80
+,	port = process.env.PORT || 8080
 ,	io = require('socket.io').listen( app.listen(port) );
 
 // connect MongoDB
